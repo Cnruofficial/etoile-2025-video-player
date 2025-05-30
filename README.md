@@ -1,1 +1,1 @@
-# --2025-video-player
+# etoile-2025-video-player
